@@ -1,6 +1,5 @@
 import { Routes, Route } from "react-router-dom"
-import Wifi from "./wifi"
-import DistanceControlScreen from "./DistanceControlScreen"
+
 import DistanceLock from "./DistanceLock"
  
 
